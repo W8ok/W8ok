@@ -1,16 +1,13 @@
-## Hi there 👋
+## Goober Project Guide
 
-<!--
-**W8ok/W8ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Tier        | Size   | Language   | Vibe                   |
+|-------------|--------|------------|------------------------|
+| Mega Smol   | 8 MB   | C          | Practical minimalism   |
+| Smol        | 64 MB  | C/Rust     | Comfortable constraint |
+| Medium      | 256 MB | Rust       | Zero worry             |
+| Big         | 1 GB   | Anything   | OCD be damned          |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Rules:**
+- Mega Smol: Static linking only, assets embedded
+- Smol: Dynamic linking allowed, Rust if scope demands it
+- Medium/Big: Full ecosystem access, no artificial constraints
